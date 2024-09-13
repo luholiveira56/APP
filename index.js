@@ -21,8 +21,13 @@ let metas01 = [2, 'mayk']
 // concatenando valores
 console.log(metas[1] + ", " + metas[0]) 
 
+let metas03 = {
+    value: 'ler um livro por mês',
+    checked: true,
+}
+
 let metas02 = [
-    metas02,
+    metas03,
     {
         value: 'caminhar 20 minutos todos os dias',
         checked: false
