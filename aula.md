@@ -7,7 +7,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Peças de uma linguagem
 
-- [x] Comentários
+- Comentários
 - Declaração de variáveis (const, let)
 - Operadores (atribuição, concatenação, matemáticos, lógicos )
 - Tipos de dados (string, number, boolean)
@@ -55,3 +55,7 @@ Apresentar os dados
 - [x] criar, passar argumento
 - [x] excutar
 - [x] arrow function / named function
+
+# Estrutura de repetição
+
+- [x] while
